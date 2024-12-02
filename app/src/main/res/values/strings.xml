@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calcular média</string>
+    <string name="etNota1">Primeiro Bimestre</string>
+    <string name="etNota2">Segundo Bimestre</string>
+    <string name="tvResposta">O aluno está</string>
+    <string name="tvTitulo">Descubra a situação do aluno</string>
+    <string name="tvMedia">Média:</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
